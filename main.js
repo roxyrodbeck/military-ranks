@@ -1,6 +1,6 @@
-let name = "Earl";
-let age = 40;
-let rank = "Captain";
+const name = "Earl";
+const age = 40;
+const rank = "Captain";
 
 if (age < 18) {
     console.log("You are too young for the military!")
